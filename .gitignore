@@ -87,3 +87,4 @@ http-client.private.env.json
 
 # the virtual environment
 /.venv/
+/.idea/discord.xml
