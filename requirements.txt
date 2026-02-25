@@ -2,3 +2,4 @@ torch~=2.9.1
 torchvision~=0.24.0
 torchastic~=0.1.2
 matplotlib~=3.10.8
+cycler
